@@ -1,0 +1,24 @@
+#navbar{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navbar{
+  background-image: linear-gradient(to right, #ffffff, #e97777);
+}
+
+.btn{
+  border-color: #e97777 !important;
+}
+.btn-outline-success{
+  color: black !important;
+}
+.btn-outline-success:hover{
+  background-color: #e97777 !important;
+  color: #ffffff !important;
+}
+
+.form-control{
+  width: 100% !important;
+}
