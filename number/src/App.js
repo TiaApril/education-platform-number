@@ -1,3 +1,4 @@
+import HotTopics from './component/HotTopics';
 import Navbar from './component/Navbar';
 import Searchform from './component/Searchform';
 
@@ -7,6 +8,7 @@ function App() {
     <>
     <Navbar/>
     <Searchform/>
+    <HotTopics/>
     
     </>
   );
